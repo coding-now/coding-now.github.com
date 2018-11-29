@@ -162,7 +162,7 @@ skill_mobile_app_keywords: [ReactJS]
 #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk
-comments_provider: gitalk
+comments_provider: gitment
 # https://disqus.com
 disqus:
     username: ityouknow
