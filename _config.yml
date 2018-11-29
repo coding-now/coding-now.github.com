@@ -7,17 +7,17 @@
 
 # Site settings
 title:  技术博客
-subtitle: 分享技术，品味人生
+subtitle: 分享技术,快乐生活
 name: 技术博客 
-email: ityouknow@126.com
+email: abc13579d@163.com
 description: 技术分享博客，内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+keywords: wongbin,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,Kubernetes,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
 favicon: favicon.png 
 
 repository: coding-now/coding-now.github.io
 github_url: https://github.com/coding-now
-cnblog_url: http://www.cnblogs.com/ityouknow
+cnblog_url: https://blog.csdn.net/feiyingwang
 url: https://coding-now.github.io
 enforce_ssl: ityouknow.com
 
@@ -79,7 +79,7 @@ navs:
 
   -
     href: /about.html
-    label: About
+    label: About Me
 
 
 # labels. my blog key words
@@ -152,10 +152,10 @@ side_bar_repo_limit: 6 # Number of repos to show
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, MySQL, Oracle, Design Patterns]
-skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, NodeJS, ExpressJS, MongoDB, Redis, PHP,  Boostrap]
-skill_mobile_app_keywords: [vuejs, hyhird app]
+skill_software_keywords: [Java, MySQL, Oracle, Design Patterns,Golang]
+skill_j2ee_keywords: [Spring, IBatis,MQ,Devops]
+skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax,MongoDB, Redis,Nginx,Boostrap]
+skill_mobile_app_keywords: [ReactJS]
 
 
 # ---------------- #
