@@ -41,4 +41,5 @@ permalink: /link
 
 ## 企业技术分享  
 - [美团技术团队](https://tech.meituan.com/archives) -技术分享氛围浓厚，有一些干货
-- [七牛架构师实践日官网」(http://hd.qiniu.com/arch) -专注架构相关
+- [七牛架构师实践日官网](http://hd.qiniu.com/arch) -专注架构相关
+
