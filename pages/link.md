@@ -25,8 +25,6 @@ permalink: /link
 - [荒蛮故事](http://relatos.top/) - 一个分享故事的网站
 
 ## 推荐网站
-
-
 - [程序员导航网站](http://tooool.org/) - 程序员的导航网站 
 - [Spring Boot中文导航](http://springboot.fun/) - Spring Boot的资源导航网站    
 - [Spring Cloud中文导航](http://springcloud.fun/) - Spring Cloud的资源导航网站    
@@ -37,22 +35,10 @@ permalink: /link
 - [公众号编辑器](http://md.ityouknow.com/) - 可以以优雅的方式在微信公众号去发布markdown文章
 - [技术博客联盟](http://techblog.pub/) - 原创技术博客作者交流的地方
 
-
 ## 个人链接
+- [github](https://github.com/coding-now) -  我分享代码的地方
+- [CSDN](http://blog.csdn.net/feiyingwang)  - 最开始写博客的地方
 
-- [ityouknow](http://www.ityouknow.com/) - 个人独立博客
-- [github](https://github.com/ityouknow) -  我分享代码的地方
-- [微博](http://weibo.com/ityouknow) -  我的微博
-- [知乎](https://www.zhihu.com/people/ityouknow) - 个人知乎地址，用的不太多大多数都在潜水
-- [博客园](https://www.cnblogs.com/ityouknow/) - 博客园个人博客，最开始写博客的地方
-- [CSDN](http://blog.csdn.net/ityouknow)  - 最开始写博客的地方
-- [51CTO](http://blog.51cto.com/ityouknow) - 51Cto地址，虽然一直没有用过
-
-## 其它  
-
-*需要展示你的网站，就在本页下面留言吧，也算是一种宣传方式。格式要求如下：*
-
-- 网站名称：ityouknow  
-- 网站链接：http://www.ityouknow.com  
-- 网站描述：neo 的个人博客，分享技术，分享生活  
-
+## 企业技术分享  
+- [美团技术团队](https://tech.meituan.com/archives) -技术分享氛围浓厚，有一些干货
+- [七牛架构师实践日官网」(http://hd.qiniu.com/arch) -专注架构相关
