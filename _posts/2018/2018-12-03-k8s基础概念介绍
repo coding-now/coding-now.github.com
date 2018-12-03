@@ -1,0 +1,39 @@
+###k8s组件介绍
+# 部署架构
+
+# 部署单元组件
+  ## master节点
+  
+  ## node节点
+  
+# 基础概念模型
+
+## namespace
+
+## cluster
+
+## master
+
+## Node
+
+## Pod
+
+# controllers
+
+## Deployment
+    Deployment 是最常用的 Controller，最常用的就是通过创建 Deployment 来部署stateless应用。
+    Deployment 可以管理 Pod 的多个副本，并确保 Pod 按照期望的状态运行。
+    
+## ReplicaSet 
+  实现了 Pod 的多副本管理。使用 Deployment 时会自动创建 ReplicaSet，也就是说 Deployment 是通过 ReplicaSet 来管理 Pod 的多个副本，我们通常不需要直接使用 ReplicaSet。
+
+## DaemonSet 
+  用于每个 Node 最多只运行一个 Pod 副本的场景。正如其名称所揭示的，DaemonSet 通常用于运行 daemon。
+
+## StatefuleSet 
+  能够保证 Pod 的每个副本在整个生命周期中名称是不变的。而其他 Controller 不提供这个功能，当某个 Pod 发生故障需要删除并重新启动时，Pod 的名称会发生变化。
+  同时 StatefuleSet 会保证副本按照固定的顺序启动、更新或者删除。
+
+## ConfigMap
+
+## 
