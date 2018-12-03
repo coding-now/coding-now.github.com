@@ -1,11 +1,29 @@
 ###k8s组件介绍
 # 部署架构
 
-# 部署单元组件
-  ## master节点
-  
-  ## node节点
-  
+部署单元组件
+  # master节点
+  官方介绍(https://kubernetes.io/docs/concepts/overview/components/#master-components)
+ 
+  ## kubeapi-server
+    server-api接口服务
+  ## etcd
+   分布式k-v存储
+  ## kube-scheduler
+   待办pod任务创建、跟踪
+  ## kube-controller-manager
+   node controller 监控node状态
+   rc 运行时deployment等监控
+   endpoint(service,pod)等服务监控
+   RBAC管理
+  # node节点
+  ## kubelet
+    
+  ## kube-proxy 
+     
+  ## container-runtime
+     docker镜像
+     
 # 基础概念模型
 
 ## namespace
@@ -15,9 +33,14 @@
 ## master
 
 ## Node
-
+  官方文档(https://kubernetes.io/docs/concepts/architecture/nodes/#node-status)
+  k8s管理的物理机或虚拟机，node的创建管理，不受k8s控制，k8s只是通过health check方式确认节点是否可用
+  
 ## Pod
-
+  k8s管理的最小单元，
+  
+## service
+  
 # controllers
 
 ## Deployment
