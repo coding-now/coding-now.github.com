@@ -62,8 +62,8 @@ navs:
     label: Home
 
   -
-    href: /spring-boot.html
-    label: Spring-Boot
+    href: /golang.html
+    label: Golang
 
   -
     href: /spring-cloud.html
